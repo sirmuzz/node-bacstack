@@ -3,3 +3,6 @@ npm-debug.log
 reports/
 docs/
 .nyc_output/
+.vscode/
+*.code-workspace
+
